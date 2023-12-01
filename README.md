@@ -10,7 +10,8 @@ The conclusive outcomes will be structured into a data frame, encompassing the f
 
 ## Virtual Enviroment
 
-We need to download virtual environment packages to import necessary modules. 
+We need to download virtual environment packages to import necessary modules.
+
 **>> Venv** 
 
     macbook@user-name file-name % python3 -m venv venv
