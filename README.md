@@ -1,0 +1,2 @@
+# Scraping IMDb Using BeautifulSoup
+ In this brief web scraping guide, I'll show you how to gather movie data from IMDb.com using BeautifulSoup. Let's consider a situation where we have a list of the 'top 250 movies,' and our objective is to choose one for viewing. Given the wealth of information, I aim to simplify the process by creating a CSV document. This document will specifically retrieve key details like the movie name, countries of origin, runtime, and more.
